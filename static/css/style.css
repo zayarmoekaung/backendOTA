@@ -1,0 +1,45 @@
+.loginbox{
+	width: 300px;
+	height: auto;
+	display: block;
+	margin: auto;
+	padding: 5px;
+	border-radius: 15px;
+	background-color: #9400D3;
+	color: #ffffff;
+	text-align: center;
+}
+input{
+border-radius: 10px;
+display: block;
+margin: auto;
+color: #9400D3;
+
+}
+.btn{
+	border-radius: 10px;
+	width: 25%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	color: #9400D3;
+}
+.lgcontainer{
+ height: 100vh;
+  background-image: url('<?php echo BASE_URL . 'static/images/loginwallpaper.jpg'?>');
+background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+
+}
+.logo{
+	width: 200px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
